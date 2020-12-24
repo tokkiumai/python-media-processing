@@ -1,0 +1,16 @@
+{
+  "show_video": true,
+  "use_ip_cam": false,
+  "id_cam_addr": "",
+  "create_image": false,
+  "min_upload_seconds": 5,
+  "min_motion_frames": 12,
+  "camera_warmup_time": 2.5,
+  "delta_thresh": 5,
+  "resolution": [1280, 720],
+  "fps": 16,
+  "min_area": 1280,
+  "user_dir": "./",
+  "resize_width": 1280,
+  "non_motion_timer": 36
+}
